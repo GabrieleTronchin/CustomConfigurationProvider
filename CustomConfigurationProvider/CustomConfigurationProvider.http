@@ -1,0 +1,6 @@
+@CustomConfigurationProvider_HostAddress = http://localhost:5075
+
+GET {{CustomConfigurationProvider_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
